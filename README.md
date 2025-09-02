@@ -1,4 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:wlsdud2194@gmail.com)](mailto:wlsdud2194@gmail.com)
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory)](https://yiy0ung.tistory.com/)
+
 
 Welcome to my profile!<br/>
 I'm Jinyoung Lee, **Backend Engineer** living in 🇰🇷
@@ -10,7 +12,7 @@ I’m currently working on improving my skills and making my life convenient <br
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
