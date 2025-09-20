@@ -22,4 +22,4 @@ I’m currently working on improving my skills and making my life convenient <br
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsdud2194)](https://solved.ac/wlsdud2194)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdud2194)](https://solved.ac/wlsdud2194)
